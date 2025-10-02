@@ -1,6 +1,6 @@
 # Spam Mail Detector 📧
 
-## 📝 Overview
+## Overview
 
 This project is a machine learning-based **Spam Mail Detector** that classifies SMS messages as either "spam" or "ham" (not spam). It uses Natural Language Processing (NLP) techniques to process the text data and a **Multinomial Naive Bayes** classifier to make predictions.
 
@@ -8,7 +8,7 @@ This project was built to demonstrate skills in data preprocessing, feature engi
 
 ---
 
-## 🚀 Technologies Used
+##  Technologies Used
 
 - **Language:** Python 3.x
 - **Libraries:**
@@ -18,13 +18,13 @@ This project was built to demonstrate skills in data preprocessing, feature engi
 
 ---
 
-## 💾 Dataset
+##  Dataset
 
 The project uses the [SMS Spam Collection Dataset](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection) from the UCI Machine Learning Repository. It contains 5,572 SMS messages in English, tagged as ham or spam.
 
 ---
 
-## 🛠️ How to Run the Project
+##  How to Run the Project
 
 1.  **Clone the repository:**
     ```bash
@@ -57,7 +57,7 @@ The script will load the local data, train the model, and print the final evalua
 
 ---
 
-## 📊 Results
+## Results
 
 The model was evaluated on a test set (20% of the data) and achieved the following performance:
 
